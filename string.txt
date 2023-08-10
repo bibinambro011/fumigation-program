@@ -1,0 +1,11 @@
+string is just array of characters in c
+data type is always char
+syntax char stringname [size];
+it is a character array generally ending with null chharacter
+string is not a datatype in charformat specifier for c is "%s"
+size of string length of characters plus one , which is for storing null character;
+scanf will not consider " " space as a string therefore compiler will automatically put null at the space and consider it sis the end of the string 
+in gets() we dont need to use the format specifier
+when we provide the index number in string and try to print the value it will print the whole string characters starting from the provided index number
+
+if we want to use any predifined functions in string we have to use string.h

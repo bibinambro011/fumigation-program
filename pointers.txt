@@ -1,0 +1,3 @@
+pointers contain address of any other variables
+pointers are deribed data type
+doule pointers will store address of one pointer in anothger pointer

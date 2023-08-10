@@ -1,0 +1,2 @@
+static variable in c is only called once 
+meaning whenever we try to call it again anad again it will holds its previous value
